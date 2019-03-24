@@ -1,16 +1,6 @@
-# My Python Utilities
+# Salary Day 
 Author: Vignesh Narasimhulu
 
-<h2> Calculator to perform 6 functions </h2>
-
-  1: Add
-  2: Subtract
-  3: Divide
-  4: Multiply
-  5: Power
-  6: Modulus
-  <hr>
-  
 <h2> Find Salary Day in a month for the whole year, based on user input </h2>
 
 Assumptions:
