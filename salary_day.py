@@ -7,17 +7,23 @@
 # (n-2) is salary day if n is Sunday
 #
 
-# import the calendar module
+#work with days, week, month
 import calendar
 import datetime
 from datetime import date
 from datetime import time
 from datetime import datetime
 from datetime import timedelta
+
+#regex match
 import re
+
+#use sys to exit
 import sys
 
+#################
 ##FUNCTION BEGIN
+#################
 # leap year function - not used in this script to take any action, but just to print on screen
 def leap(x):
  p=re.compile('.000')
@@ -36,7 +42,9 @@ def leap(x):
   #print ("noleap")
   return 1
 
+#################
 ##FUNCTION END
+#################
 
 ###########################
 ## MAIN Script beings here
